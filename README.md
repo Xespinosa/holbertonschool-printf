@@ -1,0 +1,1 @@
+This repository holds the printf function as created by Xai Espinosa Betancourt and Luis Ayala. With collaborations from Eduardo Figueroa, Johnathan Perez, Jean Barbosa, Adrian Morales, Giovanni Barreto
