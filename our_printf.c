@@ -17,7 +17,7 @@ int _printf(const char *format, ...)
 			{
 				case 'c':
 				{
-					a += print_letter(va_arg(j, int));
+					a += print_letter(va_arg(j, char));
 					break;
 				}
 				case 's':
@@ -28,8 +28,12 @@ int _printf(const char *format, ...)
 
 				case '%':
 				{
-					a += print_percentage();
+					a += print_letter(%);
 					break;
+				}
+				default:
+				{
+					break:
 				}
 			}
 			i++;

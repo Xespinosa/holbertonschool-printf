@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://leviarista.github.io/github-profile-header-generator/)
 
 
 ## Synopsis
