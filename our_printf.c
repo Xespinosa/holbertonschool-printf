@@ -29,11 +29,11 @@ int _printf(const char *format, ...)
 				case '%':
 				{
 					a += print_letter('%');
-					break:
+					break;
 				}
 				default:
 				{
-					break:
+					break;
 				}
 			}
 			i++;
