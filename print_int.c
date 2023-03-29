@@ -18,7 +18,7 @@ int print_int(int n)
 	}
 	for (i = 0; n < 0; i++)
 	{
-		hold = n % 10 + '0';
+		hold[i] = n % 10 + '0';
 		n /= 10;
 	}
 	if (neg)
