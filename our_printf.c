@@ -33,6 +33,8 @@ int _printf(const char *format, ...)
 				}
 				default:
 				{
+					a += print_letter(format[i]);
+					a += print_letter(format[i + 1]);
 					break;
 				}
 			}
