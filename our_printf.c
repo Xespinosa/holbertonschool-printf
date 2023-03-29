@@ -31,7 +31,7 @@ int _printf(const char *format, ...)
 					a += print_letter('%');
 					break;
 				}
-				case 'j':
+				case 'd':
 				case 'i':
 				{
 					a += print_int(va_arg(j, int));
