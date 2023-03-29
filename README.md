@@ -1,4 +1,4 @@
-![Header](https://leviarista.github.io/github-profile-header-generator/)
+![Header](https://leviarista.github.io/github-profile-header-generator/https://leviarista.github.io/github-profile-header-generator/)
 
 
 ## Synopsis
@@ -16,7 +16,7 @@ A format specifier in c are used to take input and print the output of a type. T
 
 The language we use for the creation of _printf() is the C language. This low level language allow us to create and control function from scratch and define its output. We are currently in our foundation trimester of C language and we are testing our knowledge by building the _print() from scratch.
 
-## Develpers
+## Developers
 Luis Ayala & Xai Betancourt
 
 ## Collaboration
