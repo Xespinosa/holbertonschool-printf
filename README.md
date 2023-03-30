@@ -1,4 +1,4 @@
-![Header](https://leviarista.github.io/github-profile-header-generator/https://leviarista.github.io/github-profile-header-generator/)
+![My banner](https://liyasthomas.github.io/banner/)
 
 
 ## Synopsis
@@ -17,9 +17,9 @@ A format specifier in c are used to take input and print the output of a type. T
 The language we use for the creation of _printf() is the C language. This low level language allow us to create and control function from scratch and define its output. We are currently in our foundation trimester of C language and we are testing our knowledge by building the _print() from scratch.
 
 ## Developers
-Luis Ayala & Xai Betancourt
+[Luis Ayala](https://github.com/luisayala323) & [Xai Betancourt](https://github.com/Xespinosa)
 
 ## Collaboration
-With collaborations from Eduardo Figueroa, Johnathan Perez, Jean Barbosa, Adrian Morales, Giovanni Barreto,Jose Rivera, Lizbeth Garcia.
+With collaborations from [Eduardo Figueroa](https://github.com/semaed), [Johnathan Perez](https://github.com/JonathanPR24), [Jean Barbosa](https://github.com/JeanBarbosa-hue), [Adrian Morales](https://github.com/Adrianmorales21), [Giovanni Barreto](https://github.com/gbc6292),[Jose Rivera](https://github.com/jGohan-cpu), [Lizbeth Garcia](https://github.com/LizzGarleb).
 
 
