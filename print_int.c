@@ -21,10 +21,6 @@ int print_int(int n)
 		hold[i] = n % 10 + '0';
 		n /= 10;
 	}
-	if (n == 0)
-	{
-		hold[i] = 0 + '0';
-	}
 	if (neg)
 		hold[i++] = '-';
 	for (j = 0; j < i / 2; j++)
