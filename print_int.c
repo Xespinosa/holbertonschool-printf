@@ -16,17 +16,21 @@ int print_int(int n)
 		neg = 1;
 		n = -n;
 	}
-	for (i = 0; n < 0; i++)
+	for (i = 0; n != 0; i++)
 	{
 		hold[i] = n % 10 + '0';
 		n /= 10;
 	}
+	if (n == 0)
+	{
+		hold[i] = 0 + '0';
+	}
 	if (neg)
 		hold[i++] = '-';
-	for (j = 0; j < i / 2; i++)
+	for (j = 0; j < i / 2; j++)
 	{
-		tmp = hold[i];
-		hold[i] = hold[i - j - 1];
+		tmp = hold[j];
+		hold[j] = hold[i - j - 1];
 		hold[i - j - 1] = tmp;
 	}
 	result = print_string(hold);
