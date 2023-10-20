@@ -1,4 +1,3 @@
-![My banner](https://liyasthomas.github.io/banner/)
 
 
 ## Synopsis
