@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&duration=4997&pause=1001&color=20F700&random=false&width=435&lines=HOLBERTON+PRINTF+" alt="Typing SVG" /></a>
 
 
 ## Synopsis
