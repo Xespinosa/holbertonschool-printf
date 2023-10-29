@@ -11,6 +11,20 @@ The function _printf main focus is to print an output according to a certain for
 
 A format specifier in c are used to take input and print the output of a type. The symbol we use in every format specifier is %. The specifier tells the compiler about the type of data that most be given or input and the type of data that most be printed on the screen.
 
+| Format Specifier | Used for...                                                   |
+|------------------|---------------------------------------------------------------|
+| %%               | Write a function that returns the sum of all its parameters.  |
+| %i, %d           | Write a function that prints numbers, followed by a new line. |
+| %s               | Write a function that prints strings, followed by a new line. |
+| %c               | Write a function that prints anything.                        |
+
+### Usage Example
+```
+Example for char:           Example for string:                Example for digit:             Example for interger:
+Input: _printf("%c", H);    Input: _printf("%s", "hello");     Input: _printf("%d", 13);      Input: _printf("%i", 45);
+Output: H                   Output: hello                      Output: 13                     Output: 45
+```
+
 ## Technology
 
 The language we use for the creation of _printf() is the C language. This low level language allow us to create and control function from scratch and define its output. We are currently in our foundation trimester of C language and we are testing our knowledge by building the _print() from scratch.
